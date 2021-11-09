@@ -1,3 +1,5 @@
+# We've update the php version to accept 8.0 and 7.3
+
 # Facebook SDK for PHP (v5)
 
 [![Build Status](https://img.shields.io/travis/facebook/php-graph-sdk/5.x.svg)](https://travis-ci.org/facebook/php-graph-sdk)
