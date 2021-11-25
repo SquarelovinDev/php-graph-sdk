@@ -1,4 +1,4 @@
-# We've update the php version to accept 8.0 and 7.3
+# We've updated the php version to accept 8.0 and 7.3
 
 # Facebook SDK for PHP (v5)
 
